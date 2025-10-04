@@ -15,5 +15,9 @@ php bin/console doctrine:query:sql "SELECT name FROM sqlite_master WHERE type='t
 php bin/console make:controller Product
 php bin/console make:controller Security
 php -S localhost:8001 -t public/  [OK]
+php bin/console make:command app:create-user
+php bin/console app:create-user [OK]
+php bin/console doctrine:query:sql "SELECT * FROM user" [OK]
+
 
 ´´´
