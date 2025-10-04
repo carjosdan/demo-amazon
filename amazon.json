@@ -1,0 +1,128 @@
+[
+  {
+    "asin": "B08N5WRWNW",
+    "title": "Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal",
+    "price": {
+      "value": 49.99,
+      "currency": "EUR",
+      "symbol": "€"
+    },
+    "image": "https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SL1500_.jpg",
+    "url": "https://www.amazon.com/dp/B08N5WRWNW",
+    "description": "Meet the all-new Echo Dot - Our most popular smart speaker with Alexa. The sleek, compact design delivers crisp vocals and balanced bass for full sound.",
+    "category": "Electronics",
+    "availability": "In Stock",
+    "brand": "Amazon",
+    "features": [
+      "Improved speaker quality - Better speaker quality than Echo Dot Gen 3 for richer and louder sound.",
+      "Voice control your music - Stream songs from Amazon Music, Apple Music, Spotify, SiriusXM, and others.",
+      "Ready to help - Ask Alexa to play music, answer questions, read the news, check the weather, set alarms, control compatible smart home devices, and more.",
+      "Connect with others - Call almost anyone hands-free. Instantly drop in on other rooms or make an announcement throughout your home with your other Echo devices."
+    ]
+  },
+  {
+    "asin": "B0BCN8P3JN",
+    "title": "Apple AirPods Pro (2nd Generation) with MagSafe Case (USB-C)",
+    "price": {
+      "value": 249.99,
+      "currency": "EUR",
+      "symbol": "€"
+    },
+    "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SL1500_.jpg",
+    "url": "https://www.amazon.com/dp/B0BCN8P3JN",
+    "description": "AirPods Pro (2nd generation) with MagSafe Case (USB-C) deliver up to 2x more Active Noise Cancellation than the previous AirPods Pro.",
+    "category": "Electronics",
+    "availability": "In Stock",
+    "brand": "Apple",
+    "features": [
+      "Up to 2x more Active Noise Cancellation than the previous AirPods Pro",
+      "Adaptive Transparency lets outside sounds in while reducing loud environmental noise",
+      "Personalized Spatial Audio with dynamic head tracking places sound all around you",
+      "Multiple ear tips (XS, S, M, L) for a customizable fit"
+    ]
+  },
+  {
+    "asin": "B0B7BP6CJN",
+    "title": "Kindle Scribe (16 GB) – the first Kindle and digital notebook, all in one",
+    "price": {
+      "value": 369.99,
+      "currency": "EUR",
+      "symbol": "€"
+    },
+    "image": "https://m.media-amazon.com/images/I/61rVrV3eGmL._AC_SL1500_.jpg",
+    "url": "https://www.amazon.com/dp/B0B7BP6CJN",
+    "description": "Kindle Scribe is the first Kindle for reading and writing, with a 10.2\" 300 ppi Paperwhite display, and includes a Basic Pen.",
+    "category": "Electronics",
+    "availability": "In Stock",
+    "brand": "Amazon",
+    "features": [
+      "The first Kindle for reading and writing - Turn any book into a notebook and write directly on the page",
+      "10.2\" 300 ppi Paperwhite display - The largest, highest resolution display of any Kindle",
+      "Basic Pen included - Write in books, take notes, or journal in notebooks. Battery-free pen, no charging required",
+      "Converts handwriting to text - Easily share and search your notes within your notebook"
+    ]
+  },
+  {
+    "asin": "B09B8RXQZ5",
+    "title": "Fire TV Stick 4K Max streaming device, Wi-Fi 6, Alexa Voice Remote",
+    "price": {
+      "value": 54.99,
+      "currency": "EUR",
+      "symbol": "€"
+    },
+    "image": "https://m.media-amazon.com/images/I/51TjJOTfslL._AC_SL1000_.jpg",
+    "url": "https://www.amazon.com/dp/B09B8RXQZ5",
+    "description": "Powerful streaming in 4K Ultra HD - enjoy a fast, smooth streaming experience with 40% more power than Fire TV Stick 4K.",
+    "category": "Electronics",
+    "availability": "In Stock",
+    "brand": "Amazon",
+    "features": [
+      "40% more powerful than Fire TV Stick 4K for fast streaming in 4K Ultra HD",
+      "Support for Wi-Fi 6 provides faster streaming and fewer dropped connections",
+      "Cinematic experience - Watch in vibrant 4K Ultra HD with support for Dolby Vision, HDR10, and Dolby Atmos audio",
+      "Alexa Voice Remote - Use your voice to search and launch content with the Alexa Voice Remote"
+    ]
+  },
+  {
+    "asin": "B08GYKNCCP",
+    "title": "Nintendo Switch with Neon Blue and Neon Red Joy‑Con",
+    "price": {
+      "value": 299.99,
+      "currency": "EUR",
+      "symbol": "€"
+    },
+    "image": "https://m.media-amazon.com/images/I/61-PblYntsL._AC_SL1500_.jpg",
+    "url": "https://www.amazon.com/dp/B08GYKNCCP",
+    "description": "3 Play Styles: TV Mode, Tabletop Mode, Handheld Mode. 6.2-inch, multi-touch capacitive touch screen.",
+    "category": "Video Games",
+    "availability": "In Stock",
+    "brand": "Nintendo",
+    "features": [
+      "3 Play Styles: TV Mode, Tabletop Mode, Handheld Mode",
+      "6.2-inch, multi-touch capacitive touch screen",
+      "4.5-9+ Hours of Battery Life will vary depending on software usage conditions",
+      "Connects over Wi-Fi for multiplayer gaming up to 8 consoles"
+    ]
+  },
+  {
+    "asin": "B09V3HN1KC",
+    "title": "Samsung Galaxy Buds2 Pro True Wireless Bluetooth Earbuds",
+    "price": {
+      "value": 179.99,
+      "currency": "EUR",
+      "symbol": "€"
+    },
+    "image": "https://m.media-amazon.com/images/I/51Ddp3xretL._AC_SL1500_.jpg",
+    "url": "https://www.amazon.com/dp/B09V3HN1KC",
+    "description": "Escape into your music with Samsung Galaxy Buds2 Pro. Our most intelligent earbuds yet cancel out distracting noises.",
+    "category": "Electronics",
+    "availability": "In Stock",
+    "brand": "Samsung",
+    "features": [
+      "Intelligent Active Noise Cancellation blocks out unwanted noise",
+      "Enhanced 360 Audio puts you at the center of the action",
+      "Comfortable, secure fit designed to stay put during your day",
+      "Up to 29 hours total battery life with case"
+    ]
+  }
+]
