@@ -6,6 +6,7 @@ git config --global user.name
 git config --global user.email
 git remote add origin git@github.com:carjosdan/demo-amazon.git
 git commit -m "Primer commit: skeleton de symfony 7.3. JSON de prueba práctica amazon.json. README inicial."
+# añado manualmente json de bondles necesarios
 composer update 
 php bin/console make:entity Product
 php bin/console make:entity User
@@ -18,6 +19,8 @@ php -S localhost:8001 -t public/  [OK]
 php bin/console make:command app:create-user
 php bin/console app:create-user [OK]
 php bin/console doctrine:query:sql "SELECT * FROM user" [OK]
-
+php bin/console make:command app:import-products
+php bin/console app:import-products amazon.json [OK]
+php bin/console doctrine:query:sql "SELECT id, title FROM product" [OK]
 
 ´´´
