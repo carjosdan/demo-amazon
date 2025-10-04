@@ -48,5 +48,7 @@
         {% endfor %}
     </div>
 </div>
-
+{% block javascripts %}
+    <script src="{{ asset('js/toggleExpand.js') }}"></script>
+{% endblock %}
 {% endblock %}
