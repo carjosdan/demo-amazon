@@ -11,6 +11,7 @@ php bin/console make:entity Product
 php bin/console make:entity User
 php bin/console make:migration
 php bin/console doctrine:migrations:migrate
+php bin/console doctrine:query:sql "SELECT name FROM sqlite_master WHERE type='table'" [OK]
 php bin/console make:controller Product
 php bin/console make:controller Security
 php -S localhost:8001 -t public/  [OK]

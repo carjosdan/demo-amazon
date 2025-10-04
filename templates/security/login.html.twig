@@ -1,0 +1,42 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Acceso - Amazon{% endblock %}
+
+{% block body %}
+<div class="login-container">
+    <div class="login-form">
+        <h2>Área de Acceso</h2>        
+        <form method="post">
+            {% if error %}
+                <div class="alert alert-danger">{{ error.messageKey|trans(error.messageData, 'security') }}</div>
+            {% endif %}
+
+            {% if app.user %}
+                <div class="mb-3">
+                    Se encuentra logeado como {{ app.user.userIdentifier }}, <a href="{{ path('app_logout') }}">Cerrar Sesión</a>
+                </div>
+            {% endif %}
+
+            <div class="form-group">
+                <label for="username">Email</label>
+                <input type="email" value="{{ last_username }}" name="_username" id="username" autocomplete="email" required autofocus>
+            </div>
+            
+            <div class="form-group">
+                <label for="password">Contraseña</label>
+                <input type="password" name="_password" id="password" autocomplete="current-password" required>
+            </div>
+            
+            <input type="hidden" name="_csrf_token" value="{{ csrf_token('authenticate') }}">
+
+            <button type="submit">Ingresar</button>
+        </form>
+        
+        <div class="demo-credentials">
+            <strong>Credenciales de prueba:</strong><br>
+            Email: <code>cliente@example.com</code><br>
+            Contraseña: <code>amazon123</code>
+        </div>
+    </div>
+</div>
+{% endblock %}
