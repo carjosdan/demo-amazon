@@ -9,7 +9,6 @@ Una aplicación web completa desarrollada con Symfony 7.3 que muestra productos 
 - **Security**: Componente Security de Symfony para autenticación
 - **Console**: Comandos personalizados para gestión de datos (CreateUser, ImportProducts)
 
-
 ## **Arquitectura del Proyecto**
 ```
 symfony-amazon/
