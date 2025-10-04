@@ -5,7 +5,7 @@ Una aplicación web completa desarrollada con Symfony 7.3 que muestra productos 
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
-**Desarrollado con**: Symfony 7.3, PHP 8.3  
+**Desarrollado con**: Symfony 7.3, PHP 8.3, Doctrine ORM, Twig 3.21     
 **Desarrollado por**: Daniel Pérez  
 **Fecha**: Octubre 2025  
 **Versión**: 1.0.0 (Symfony Edition)
