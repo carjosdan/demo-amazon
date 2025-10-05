@@ -101,7 +101,7 @@ cd demo-amazon
 ```bash
 # Crear usuarios de prueba
 php bin/console app:create-user
-
+```
 ### Gestión de Productos
 ```bash
 # Importar productos desde JSON
